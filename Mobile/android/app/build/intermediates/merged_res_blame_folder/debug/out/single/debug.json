@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.ringsize.app-main-57:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ringsize.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ringsize.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_item_product.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_fragment_measure.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/fragment_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_activity_camera_measure.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_camera_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_fragment_measure.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_measure.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_dialog_reference_coin.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/dialog_reference_coin.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_fragment_history.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ringsize.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_dialog_reference_coin.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_reference_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_dialog_finger_measurement.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_finger_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_dialog_ring_measurement.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/dialog_ring_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_activity_camera_measure.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/activity_camera_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_item_measurement.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\item_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_fragment_gold_price.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/fragment_gold_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_item_measurement.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/item_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/navigation_mobile_navigation.xml.flat",
+        "source": "com.ringsize.app-main-57:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_fragment_marketplace.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_marketplace.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_dialog_ring_measurement.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_ring_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_fragment_gold_price.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_gold_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_dialog_measurement_result.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/dialog_measurement_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\layout_dialog_measurement_result.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_measurement_result.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/xml_file_paths.xml.flat",
+        "source": "com.ringsize.app-main-57:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/layout_dialog_finger_measurement.xml.flat",
+        "source": "com.ringsize.app-main-57:/layout/dialog_finger_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ringsize.app-merged_res-55:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.ringsize.app-main-57:/mipmap-hdpi/ic_launcher.xml"
+    }
+]

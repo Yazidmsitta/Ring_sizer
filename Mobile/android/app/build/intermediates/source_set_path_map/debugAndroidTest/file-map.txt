@@ -1,0 +1,6 @@
+com.ringsize.app.test.app-jetified-core-1.5.0-0 C:\Users\msitt\.gradle\caches\transforms-3\680bfe963c7574eb264ca081165ccc16\transformed\jetified-core-1.5.0\res
+com.ringsize.app.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\msitt\.gradle\caches\transforms-3\bcf515496686350f346678614b34b66d\transformed\jetified-annotation-experimental-1.3.0\res
+com.ringsize.app.test.app-androidTest-2 D:\EMSI4eme\Mobile\android\app\build\generated\res\resValues\androidTest\debug
+com.ringsize.app.test.app-mergeDebugAndroidTestResources-3 D:\EMSI4eme\Mobile\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ringsize.app.test.app-mergeDebugAndroidTestResources-4 D:\EMSI4eme\Mobile\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ringsize.app.test.app-merged_res-5 D:\EMSI4eme\Mobile\android\app\build\intermediates\merged_res\debugAndroidTest

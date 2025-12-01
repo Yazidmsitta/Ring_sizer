@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/item_product.xml",
+        "source": "com.ringsize.app-main-57:/layout/item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\dialog_ring_measurement.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_ring_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/fragment_measure.xml",
+        "source": "com.ringsize.app-main-57:/layout/fragment_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\dialog_finger_measurement.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_finger_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/dialog_finger_measurement.xml",
+        "source": "com.ringsize.app-main-57:/layout/dialog_finger_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/dialog_measurement_result.xml",
+        "source": "com.ringsize.app-main-57:/layout/dialog_measurement_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\dialog_measurement_result.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_measurement_result.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/fragment_gold_price.xml",
+        "source": "com.ringsize.app-main-57:/layout/fragment_gold_price.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.ringsize.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/dialog_reference_coin.xml",
+        "source": "com.ringsize.app-main-57:/layout/dialog_reference_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\fragment_measure.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_measure.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/fragment_history.xml",
+        "source": "com.ringsize.app-main-57:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\dialog_reference_coin.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\dialog_reference_coin.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/dialog_ring_measurement.xml",
+        "source": "com.ringsize.app-main-57:/layout/dialog_ring_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\fragment_gold_price.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_gold_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\activity_camera_measure.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_camera_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/item_measurement.xml",
+        "source": "com.ringsize.app-main-57:/layout/item_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\item_product.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\fragment_marketplace.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_marketplace.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\item_measurement.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\item_measurement.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.ringsize.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ringsize.app-mergeDebugResources-54:/layout/activity_camera_measure.xml",
+        "source": "com.ringsize.app-main-57:/layout/activity_camera_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-mergeDebugResources-54:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\msitt\\.gradle\\daemon\\8.2\\com.ringsize.app-main-57:\\layout\\fragment_settings.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ring Sizer</string>
+    
+    <!-- Authentication -->
+    <string name="login">Connexion</string>
+    <string name="register">S\'inscrire</string>
+    <string name="logout">Déconnexion</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="name">Nom</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+    
+    <!-- Measurement -->
+    <string name="measure_ring">Mesurer une bague</string>
+    <string name="measure_finger">Mesurer un doigt</string>
+    <string name="measure_bracelet">Mesurer un poignet</string>
+    <string name="place_ring_on_screen">Placez votre bague sur l\'écran</string>
+    <string name="calibrate_with_coin">Calibrez avec une pièce de monnaie</string>
+    <string name="measurement_result">Résultat de la mesure</string>
+    <string name="save_measurement">Enregistrer la mesure</string>
+    <string name="measurement_name">Nom de la mesure</string>
+    
+    <!-- History -->
+    <string name="measurement_history">Historique des mesures</string>
+    <string name="no_measurements">Aucune mesure enregistrée</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    
+    <!-- Settings -->
+    <string name="settings">Paramètres</string>
+    <string name="preferred_unit">Unité préférée</string>
+    <string name="language">Langue</string>
+    <string name="mm">Millimètres (mm)</string>
+    <string name="inch">Pouces (inch)</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+    
+    <!-- Gold Price -->
+    <string name="gold_price">Cours de l\'or</string>
+    <string name="day">Jour</string>
+    <string name="week">Semaine</string>
+    <string name="month">Mois</string>
+    <string name="year">Année</string>
+    
+    <!-- Marketplace -->
+    <string name="marketplace">Marketplace</string>
+    <string name="products">Produits</string>
+    <string name="filter">Filtrer</string>
+    <string name="price">Prix</string>
+    <string name="vendor">Vendeur</string>
+    <string name="contact_vendor">Contacter le vendeur</string>
+    
+    <!-- Common -->
+    <string name="loading">Chargement…</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="ok">OK</string>
+</resources>

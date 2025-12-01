@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_measure"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/measure_ring" />
+    
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/measurement_history" />
+    
+    <item
+        android:id="@+id/navigation_gold_price"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/gold_price" />
+    
+    <item
+        android:id="@+id/navigation_marketplace"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/marketplace" />
+    
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/settings" />
+</menu>
+
+
+
+
+
+
+

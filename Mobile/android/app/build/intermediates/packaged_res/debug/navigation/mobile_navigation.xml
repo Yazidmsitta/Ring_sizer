@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_measure">
+
+    <fragment
+        android:id="@+id/navigation_measure"
+        android:name="com.ringsize.app.ui.measure.MeasureFragment"
+        android:label="@string/measure_ring"
+        tools:layout="@layout/fragment_measure" />
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.ringsize.app.ui.history.HistoryFragment"
+        android:label="@string/measurement_history"
+        tools:layout="@layout/fragment_history" />
+
+    <fragment
+        android:id="@+id/navigation_gold_price"
+        android:name="com.ringsize.app.ui.goldprice.GoldPriceFragment"
+        android:label="@string/gold_price"
+        tools:layout="@layout/fragment_gold_price" />
+
+    <fragment
+        android:id="@+id/navigation_marketplace"
+        android:name="com.ringsize.app.ui.marketplace.MarketplaceFragment"
+        android:label="@string/marketplace"
+        tools:layout="@layout/fragment_marketplace" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.ringsize.app.ui.settings.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <activity
+        android:id="@+id/navigation_login"
+        android:name="com.ringsize.app.ui.auth.LoginActivity"
+        android:label="@string/login"
+        tools:layout="@layout/activity_login" />
+
+</navigation>
+
+
+
+
+
+
+

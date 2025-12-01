@@ -1,0 +1,3 @@
+com.ringsize.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

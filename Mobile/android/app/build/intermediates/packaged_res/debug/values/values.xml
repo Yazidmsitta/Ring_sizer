@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="primary">#FFD700</color>
+    <color name="primary_dark">#DAA520</color>
+    <color name="secondary">#C9A961</color>
+    <color name="secondary_dark">#8B6914</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Ring Sizer</string>
+    <string name="calibrate_with_coin">Calibrez avec une pièce de monnaie</string>
+    <string name="cancel">Annuler</string>
+    <string name="contact_vendor">Contacter le vendeur</string>
+    <string name="day">Jour</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="email">Email</string>
+    <string name="english">Anglais</string>
+    <string name="error">Erreur</string>
+    <string name="filter">Filtrer</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="french">Français</string>
+    <string name="gold_price">Cours de l\'or</string>
+    <string name="inch">Pouces (inch)</string>
+    <string name="language">Langue</string>
+    <string name="loading">Chargement…</string>
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="measure_bracelet">Mesurer un poignet</string>
+    <string name="measure_finger">Mesurer un doigt</string>
+    <string name="measure_ring">Mesurer une bague</string>
+    <string name="measurement_history">Historique des mesures</string>
+    <string name="measurement_name">Nom de la mesure</string>
+    <string name="measurement_result">Résultat de la mesure</string>
+    <string name="mm">Millimètres (mm)</string>
+    <string name="month">Mois</string>
+    <string name="name">Nom</string>
+    <string name="no_measurements">Aucune mesure enregistrée</string>
+    <string name="ok">OK</string>
+    <string name="password">Mot de passe</string>
+    <string name="place_ring_on_screen">Placez votre bague sur l\'écran</string>
+    <string name="preferred_unit">Unité préférée</string>
+    <string name="price">Prix</string>
+    <string name="products">Produits</string>
+    <string name="register">S\'inscrire</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+    <string name="save">Enregistrer</string>
+    <string name="save_measurement">Enregistrer la mesure</string>
+    <string name="settings">Paramètres</string>
+    <string name="success">Succès</string>
+    <string name="vendor">Vendeur</string>
+    <string name="week">Semaine</string>
+    <string name="year">Année</string>
+    <style name="Theme.RingSizer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
